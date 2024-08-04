@@ -1,4 +1,4 @@
-
+![chain](https://github.com/user-attachments/assets/5eda1309-c0d6-4a30-9bb5-0050a8c79d57)
 
 # Llama2 Medical Bot
 
