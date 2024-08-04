@@ -17,7 +17,7 @@ The Llama2 Medical Bot is a powerful tool designed to provide medical informatio
 
 Before you can start using the Llama2 Medical Bot, make sure you have the following prerequisites installed on your system:
 
-- Python 3.6 or higher
+- Python 3.7 or higher
 - Required Python packages (you can install them using pip):
     - langchain
     - chainlit
