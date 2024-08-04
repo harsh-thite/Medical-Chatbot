@@ -12,8 +12,6 @@ The Llama2 Medical Bot is a powerful tool designed to provide medical informatio
 - [Installation](#installation)
 - [Getting Started](#getting-started)
 - [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Prerequisites
 
