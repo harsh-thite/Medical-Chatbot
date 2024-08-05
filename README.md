@@ -1,6 +1,6 @@
 ![chain](https://github.com/user-attachments/assets/5eda1309-c0d6-4a30-9bb5-0050a8c79d57)
 
-# Llama2 Medical Bot
+# Llama2 Medical ChatBot
 
 The Llama2 Medical Bot is a powerful tool designed to provide medical information by answering user queries using state-of-the-art language models and vector stores. This README will guide you through the setup and usage of the Llama2 Medical Bot.
 
